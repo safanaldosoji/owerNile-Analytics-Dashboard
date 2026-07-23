@@ -35,11 +35,15 @@ The analytics workflow was executed across three core phases:
 
 ## 5. Dashboard Architecture & Screenshots
 
-The Power BI report consists of three main analytical pages:
+The Power BI report consists of three main analytical pages along with deep-dive visual trends:
 
 * **Page 1: Executive Overview** – High-level metrics, total target variance, division slicers, and regional distribution.
   
   ![Executive Overview](20260723_203358.jpg)
+
+* **Monthly Revenue Trends & Breakdown** – Detailed visual breakdown of monthly revenue trajectories and division comparisons.
+  
+  ![Monthly Revenue Trends](20260723_203420.jpg)
 
 * **Page 2: Department Details** – Drill-through analysis across project teams with conditional formatting to identify financial risk zones.
   
@@ -48,7 +52,6 @@ The Power BI report consists of three main analytical pages:
 * **Page 3: Performance vs Target** – Executive summary view using Combo visualizations evaluating overall divisional performance against planned targets.
   
   ![Performance vs Target](20260723_203503.jpg)
-
 ---
 
 ## 6. Business Recommendations
