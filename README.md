@@ -37,10 +37,17 @@ The analytics workflow was executed across three core phases:
 
 The Power BI report consists of three main analytical pages:
 
-* **Page 1: Executive Overview (`Executive Overview`)** – High-level revenue cards, division slicers, and regional distribution.
-* **Page 2: Department Details (`Department Details`)** – Drill-through granular table with conditional formatting to identify financial risk zones.
-* **Page 3: Performance vs Target (`Target vs Actual`)** – Executive Gauge and Combo visualizations evaluating overall divisional performance against $61M planned targets.
+* **Page 1: Executive Overview** – High-level metrics, total target variance, division slicers, and regional distribution.
+  
+  ![Executive Overview](20260723_203358.jpg)
 
+* **Page 2: Department Details** – Drill-through analysis across project teams with conditional formatting to identify financial risk zones.
+  
+  ![Department Details](20260723_203438.jpg)
+
+* **Page 3: Performance vs Target** – Executive summary view using Combo visualizations evaluating overall divisional performance against planned targets.
+  
+  ![Performance vs Target](20260723_203503.jpg)
 
 ---
 
